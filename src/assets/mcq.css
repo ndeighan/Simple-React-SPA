@@ -1,0 +1,32 @@
+.multiple-choice-question {
+    text-align: left;
+    width: 50%;
+}
+.new-question-title{
+    display: flex;
+}
+.add-answer-button {
+    margin-bottom: 10px;
+}
+.option-title {
+    text-align: left;
+    width: 50%;
+}
+.remove-answer {
+    text-align: left;
+    width: 50%;
+}
+.true-false-inputs{
+    max-width: 700px;
+    background-color: deepskyblue;
+    padding: 10px;
+}
+.multiple-choice-question-form {
+    display: inline-grid;
+}
+.is-success {
+    background-color: #08CA7C;
+}
+.is-danger {
+    background-color: #FF0020;
+}

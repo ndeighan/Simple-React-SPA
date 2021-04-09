@@ -1,0 +1,22 @@
+input{
+    max-width: 100px;
+} 
+.is-success {
+    background-color: #08CA7C;
+}
+.is-danger {
+    background-color: #FF0020;
+}
+.true-false-question {
+    text-align: left;
+    width: 50%;
+}
+.true-false-inputs{
+    max-width: 700px;
+    background-color: deepskyblue;
+    padding: 10px;
+}
+.question-body {
+    text-align: left;
+    width: 50%;
+}
